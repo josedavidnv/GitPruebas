@@ -1,0 +1,3 @@
+<?
+//Otro fichero
+?>
